@@ -1,0 +1,4 @@
+blog.txt
+# help me write this text
+I love to think about AWS technology, so there must be a way to start with something
+```
